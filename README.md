@@ -4,7 +4,7 @@
 
 👯 Let's collaborate on innovative projects
 
-🌱 I’m currently learning software development with a focus on data and user experience design. <br/><br/>
+🌱 I’m currently learning software development with a focus on data analysis and user experience design. <br/><br/>
 🤔 I’m looking for help with optimizing user interfaces for better engagement and learning advanced techniques in data analysis for environmental projects. <br/><br/>
 💬 Ask me about graphic design, product design, brand strategy, and the intersection of technology and sustainability.<br/><br/><br/>
 
